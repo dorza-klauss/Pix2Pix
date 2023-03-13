@@ -3,9 +3,10 @@ An implementation of Image-to-Image translation with Conditional Adversarial Net
 
 The model was trained on the Maps dataset, and the results were obtained after training the model for 500 epochs. All the hyperparameters were set according to the original paper. 
 
-|1st row: Input / 2nd row: Generated / 3rd row: Target|
-|:...:|
-|!.[.].(results/results_maps.png)|
+|1st row: Input | 2nd row: Generated | 3rd row: Target|
+![.](https://github.com/dorza-klauss/Pix2Pix/blob/main/results/results_maps.png)
+
+
 
 ### Training
 
